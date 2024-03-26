@@ -8,10 +8,28 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Julian Estrada / Julian's Title"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Julian Estrada"
+description              : &description "Triple majoring in Computer Science, Data Science, 
+                          and Classics at the University of Miami, I maintain a 4.0 GPA, showcasing 
+                          my dedication to blending technology, mathematics, and ancient history. As 
+                          the Director of New Member Education for Kappa Theta Pi, I spearhead educational 
+                          programs focused on technology fundamentals, professional growth, and industry
+                          knowledge, while fostering mentorship and continuous learning. In my role as Director 
+                          of External Affairs for the Society of Hispanic Professional Engineers, I advocate 
+                          for diversity in STEM, building strategic relationships and leading initiatives for
+                          Hispanic inclusion and success. My hands-on tech experience, underscored by involvement
+                          in key projects, emphasizes teamwork, innovation, and resilience. Majoring in Classics 
+                          enriches my problem-solving and creativity in tech. I'm driven to merge my interests in 
+                          technology and classics, advancing meaningful tech innovations and advocating for STEM diversity.
+
+
+
+
+
+
+"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
